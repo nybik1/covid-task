@@ -1,0 +1,20 @@
+.contentWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 10px;
+}
+
+
+.dateFilterWrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.datePicker{
+    border: none;
+    outline: none;
+    height: 25px;
+    border-radius: 5px;
+}
